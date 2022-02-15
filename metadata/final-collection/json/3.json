@@ -1,0 +1,51 @@
+{
+    "name" : "Adopter",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "image" : "https://ipfs.io/ipfs/your-CID/3.jpg",
+    "attributes": [
+        {
+            "trait_type": "Contributie",
+            "value": 7,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Angajament",
+            "value": 6,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Tenacitate",
+            "value": 6,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Optimism",
+            "value": 9,
+            "max_value": 10
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Contributie",
+            "value": 1
+        },
+        {
+            "display_type": "boost_percentage",
+            "trait_type": "Angajament",
+            "value": 20
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Tenacitate",
+            "value": 1
+        },
+        {
+            "trait_type": "Sare in ajutor",
+            "value": "True"
+        },
+        {
+            "trait_type": "Cauta sa rezolve probleme",
+            "value": "True"
+        }
+
+    ]
+}
